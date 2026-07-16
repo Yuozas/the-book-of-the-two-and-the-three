@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you cite the Book, cite it as below — and check its verses first; it insists."
+title: "The Book of the Two and the Three: A Scripture of Cursed Geometry"
+authors:
+  - family-names: "Žilys"
+    given-names: "Juozas"
+    alias: "Yuozas"
+version: "1.0"
+date-released: "2026-07-16"
+url: "https://github.com/Yuozas/the-book-of-the-two-and-the-three"
+license: "CC-BY-NC-SA-4.0"
