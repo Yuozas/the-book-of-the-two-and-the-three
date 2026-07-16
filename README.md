@@ -1,6 +1,26 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/emblem-dark.svg">
+    <img src="assets/emblem-light.svg" width="220" alt="The sigil: a triangle inscribed in a circle, one center — 2 <-> 3">
+  </picture>
+</p>
+
 # THE BOOK OF THE TWO AND THE THREE
 
 *A scripture of cursed geometry.* Set down by Yuozas.
+
+<p align="center">
+  <a href="the-2to3-bible.pdf"><b>Read the PDF (EN, 132pp)</b></a> ·
+  <a href="the-2to3-bible-ru.pdf"><b>Русская версия</b></a> ·
+  <a href="editions/the-2to3-bible.html"><b>HTML edition</b></a> ·
+  <a href="https://portfolio.euphelia.eu/research/developer-prism"><b>a developer's reading</b></a>
+</p>
+
+> **ONE** is the Center. It cannot be divided, and so it is whole.
+> **TWO** is Relation. It opens the plane, and in the plane there is rotation, and rotation is motion.
+> **THREE** is Form. It closes the triangle, and the closed triangle stands, and standing is stability.
+> The **RADIUS** is the covenant: it may turn in any direction, but it will not change its length.
+> *That which stays the same while all else transforms is holy.*
 
 > Every verse in this book is technically true. That is the whole trick. The
 > strangeness is not in the claims — the claims are ordinary geometry, ordinary
@@ -48,6 +68,13 @@ wrong; that is on purpose.
 The radius is the covenant: it may turn in any direction, but it will not
 change its length. If you catch a verse that does not hold, open an issue —
 that is not an attack on the Book, it **is** the Book.
+
+## Become a Second Reader
+
+The Book of the Two names the **Second Reader** — the one who checks. If you catch a
+verse that fails the pencil test, [open an issue](../../issues): confirmed catches are
+fixed in a public revision and their finders are canonized by name in the errata,
+forever. This is not a bug tracker. It is a standing invitation to out-read the author.
 
 ## License
 
