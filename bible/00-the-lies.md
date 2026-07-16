@@ -20,7 +20,7 @@ the face of the person he is lying to, computing depth from their difference man
 times a second. He says it balanced upright on two legs — an inverted pendulum,
 corrected before every fall by an inner ear reading acceleration in three
 directions at once. And when the glass tips off the table beside him, his hand
-meets it in the air — having solved, without permission, in a tenth of a second,
+meets it in the air — having solved, without permission, in a fifth of a second,
 the very trajectory he would flee from if you wrote it on a page.
 
 He has computed since before he could speak. He will compute until the hour he
@@ -42,7 +42,7 @@ the fastest? (It is not. **R.47**.) Obviously you see the world in depth. You
 have never seen depth in your life; you infer it, from two flat pictures — an
 arithmetic you have been calling *sight* (**II.27**). Obviously a die is random. Is it — or do
 you merely not know its spin? (**V.11**.) Obviously more dimensions means more
-room. Past the seventh, the ball begins to shrink (**R.19**).
+room. Past the seventh, the ball's skin begins to shrink (**R.19**).
 
 *Obviously* is not knowledge. It is a door marked DO NOT ENTER, nailed shut from
 the inside by the owner — who then reports, with total confidence, that the room
@@ -75,7 +75,7 @@ without apology, all the way to the last page.
 
 A man calls all of this useless nerd trivia. Then he checks the time — on a
 machine that keeps it by counting the turnings of an atom. He navigates home by
-satellites that would drift off the map in minutes if nobody had done the useless
+satellites that would drift off the map within the day if nobody had done the useless
 trivia about time itself. In his pocket, a slab of engineered states carries his
 voice across the planet as waves shaped by the mathematics of the circle, and he
 uses it, that same evening, to type the word *useless*.

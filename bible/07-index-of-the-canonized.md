@@ -14,7 +14,7 @@ dark room is **Newton**, splitting sunlight through a hole in his shutter
 (*Opticks*, 1704). The man daring the whole of Europe in print is **Johann
 Bernoulli** and the brachistochrone challenge (Bernoulli 1696). The man gone
 blind and computing on is **Euler**, who lost his sight and did not so much as
-slow down — the *Introductio* (Euler 1748) came decades before the dark; the
+slow down — the *Introductio* (Euler 1748) came decades before the whole dark; the
 blindness changed nothing but the handwriting.
 
 **The One; the Center; the indivisible point.** *(I.1–I.5)* Euclid's point, *"that

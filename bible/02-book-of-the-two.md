@@ -54,9 +54,10 @@ born. And in the plane — only now, never before — **rotation becomes possibl
 
 **II.7** This is the deepest secret of the Two, and the whole later book turns on
 it: *rotation is a two-dimensional act.* Even in great-dimensional space, every
-rotation happens **inside some plane**, spanned by exactly two directions. There
-is no such thing as rotation in one dimension, and there is no rotation that is
-not, at its heart, the turning of one pair of directions into each other.
+rotation is woven of turnings, each **inside some plane**, spanned by exactly two
+directions. There is no such thing as rotation in one dimension, and there is no
+rotation that is not, at its heart, built from the turning of pairs of directions
+into each other.
 
 **II.8** So when in a later Book the sphere turns, and the qubit turns, and the
 whole quantum turns toward its answer — remember that the turning itself always
@@ -176,7 +177,7 @@ can be read.
 
 **II.27** Each eye receives a nearly flat image. Neither image is depth. But the
 brain takes the **difference** between the left image and the right, and from
-that difference alone computes the third dimension:
+that difference computes a depth no single eye receives:
 
 ```
 (left view) − (right view)  →  depth

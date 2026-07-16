@@ -249,8 +249,8 @@ triangle points of Jupiter's orbit, sixty degrees ahead and sixty behind.
 **III.28** And the Three has one more dance, found late and proved later: three
 equal bodies chasing one another along a single closed curve shaped like the
 sign of infinity — each body tracing the same figure-eight, in perfect thirds
-of a turn. A **choreography**: the Three sharing one path, dancing on the
-lemniscate forever. And mark the mask that signed the proof — Montgomery, the
+of a turn. A **choreography**: the Three sharing one path, dancing their
+figure of eight forever. And mark the mask that signed the proof — Montgomery, the
 same hand that unmasked the falling cat (**A.10**). The canon's masks return,
 because the mathematics is one.
 

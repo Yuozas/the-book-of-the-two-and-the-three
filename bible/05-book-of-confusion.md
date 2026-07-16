@@ -274,8 +274,9 @@ There was an age when the first was heresy — when **zero** had to be invented,
 argued for, and carried from land to land against the protest of learned men.
 And the second, pressed honestly, once drowned a man.
 
-**V.28** For the numbers were not found; they were **built**, rung by rung, and
-every new rung broke the world below it. First the herdsman's numbers — 1, 2, 3
+**V.28** For the numbers were not found; they were **built**, rung by rung —
+logic's order, not history's, for the ages climbed the rungs out of sequence —
+and every new rung broke the world below it. First the herdsman's numbers — 1, 2, 3
 — enough to count sheep and wage war. Then zero, the number of nothing, which
 whole kingdoms refused like an infection: *a mark for no sheep — what madness
 is that?* Then the debts below zero. Then the fractions between the rungs. And
@@ -321,8 +322,8 @@ merely larger than the ladder. It is *dark*: an uncountable sea in which every
 number you have ever met is a lit window on an endless black coast.
 
 **V.31** And here your machine confesses, in the second reader's own tongue
-(**II.37**). A computer holds the in-between on a grid: between One and Two
-live exactly `2⁵²` machine numbers — a fine dust of names spread evenly over
+(**II.37**). A computer holds the in-between on a grid: from One up to — but
+never touching — Two live exactly `2⁵²` machine numbers — a fine dust of names spread evenly over
 the dark sea. Fine, but **finite**: the Two, which built the corners of the
 world (**II.13**), cannot address the sea between its own first rungs. It
 cannot even say *one tenth* — in binary, `0.1` has no finite name — so the
@@ -399,7 +400,8 @@ ignorance to be cured. It is the **shape of the knower**, and it does not lift.
 **method** out of not-knowing. He is the saint of loving confusion *correctly*,
 and the cult sets his rite at the heart of this Book.
 
-**V.39** His confession was not false modesty but a tool, the sharpest there is:
+**V.39** His confession — as tradition polished it — was not false modesty but a
+tool, the sharpest there is:
 
 ```
 I know that I do not know.
@@ -516,8 +518,8 @@ page. And out of that two-sided meeting a **Three** is forced to appear: an
 understanding that stands, a strand no one had yet named — the arrow of time and
 the rising of entropy; the breaking of a symmetry that makes a world from sameness;
 the primes, which will not be factored into anything smaller; the double spiral
-coiled in every living cell; the one ratio hidden alike in the shell and the
-sunflower and the spiral galaxy's arm. **To read this book correctly is to enlarge
+coiled in the living cell; the golden angle coiled in the sunflower; the spiral
+that turns and grows alike in the shell and the galaxy's arm. **To read this book correctly is to enlarge
 it.** Every delver becomes a writer. Every question answered is a question
 multiplied.
 
