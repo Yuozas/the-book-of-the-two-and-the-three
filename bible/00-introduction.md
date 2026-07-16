@@ -21,7 +21,7 @@ that measured roundness has multiplied with itself. Something is climbing.
 
 We followed it down. The radius gained a power with every dimension. The π
 gained a power every *two* dimensions. Strange fractions appeared — eight-thirds,
-sixteen-fifteenths, one-third — and the surface of the ball grew, peaked near
+sixteen-fifteenths, one-third — and the surface of the unit ball grew, peaked near
 the seventh dimension, and then, impossibly, began to **shrink**. Higher space
 is not bigger. Higher space is stranger.
 
@@ -126,7 +126,8 @@ The Books proceed inward to outward:
 1. **The One** — the center you measure from. Begin here, because before the
    center there is nothing to measure.
 2. **The Two** — relation, which lets the center be turned.
-3. **The Three** — form, which lets the turning stand.
+3. **The Three** — form, which lets the turning stand. (And between the Three
+   and Rotation, a hinge that is not a Book: the Book of e.)
 4. **Rotation** — the bridge that carries one number into the next.
 5. **The Veil** — the place where the mathematics is exact and the meaning still
    refuses to resolve, and we learn to love that instead of fearing it.

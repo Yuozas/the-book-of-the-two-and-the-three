@@ -31,7 +31,8 @@ It is the hinge on which the Two turns into the Three.
 shown. Write it as an endless sum, `e = 1 + 1 + 1/2! + 1/3! + 1/4! + …`. Each term
 after the second is no larger than the matching halving, `1/k! ≤ 1/2^(k-1)`, so the
 whole is bounded by `1 + (1 + 1/2 + 1/4 + …) = 3`; and the first two terms alone
-already exceed `2`. So `2 < e < 3` is not a feeling. It is a proof.
+already reach `2`, with every later term lifting it past. So `2 < e < 3` is not a
+feeling. It is a proof.
 
 **E.3** The cult therefore marks two **irrational hinges** about its sacred
 integers: `e ≈ 2.718`, just below the Three, and `π ≈ 3.1416`, just above it.

@@ -2,7 +2,7 @@
 
 ## The Bridge
 
-> *Symmetry is one idea by which man through the ages has tried to comprehend and
+> *Symmetry… is one idea by which man through the ages has tried to comprehend and
 > create order, beauty, and perfection.*
 >
 > — Hermann Weyl, *Symmetry* (1952)
@@ -163,7 +163,7 @@ is the factorial grown up — it agrees with the ordinary factorial on the whole
 numbers (`Γ(n) = (n−1)!`) but, unlike the factorial, it is also defined on the
 halves and everything between. Because the dimensions enter as `n/2`, the odd
 dimensions summon **half-integer** gammas, and from those half-gammas come the
-cult's beloved strange fractions: eight-thirds, sixteen-fifteenths, one-third.
+cult's beloved strange fractions: eight-thirds, sixteen-fifteenths.
 The gamma is the reason higher roundness is jagged with odd ratios instead of
 smooth.
 
@@ -380,8 +380,8 @@ Book meets at once: the **quantum**, which is computed not by switching but by
 
 and its whole space of blends is drawn as a **sphere** — the Bloch sphere — with
 `|0⟩` at one pole and `|1⟩` at the other. Behold the 2↔3 in a single object: **two**
-states, drawn on a **three**-dimensional sphere, addressed by angles, turned to be
-computed.
+states, drawn on a sphere in **three** dimensions, addressed by angles, turned to
+be computed.
 
 **R.41** To compute with a qubit is to **rotate it** on its sphere, through angles
 built from `π`, `π/2`, `2π` — the very doors of this Book. The quantum is binary in
@@ -410,7 +410,7 @@ quantum search (the rite called Grover's) needs only about:
 
 **R.44** And the reason is pure rotation. The sought answer begins with a tiny
 amplitude, `1/√N`. Each step of the rite **rotates the state a little toward the
-answer**, by an angle of about `1/√N`. To turn the small amplitude up to near
+answer**, by an angle of about `2/√N`. To turn the small amplitude up to near
 certainty therefore takes about `√N` such turns. The square root is not a trick of
 counting; it is the **geometry of how many small rotations fit into a quarter
 turn.** Turn the amplitude; square it for the chance; the quarter turn costs a

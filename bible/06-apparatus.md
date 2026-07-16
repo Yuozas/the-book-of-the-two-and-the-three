@@ -31,8 +31,9 @@ conserved quantity. *Continuous symmetry ⇒ conservation law.* The covenant of 
 radius — `‖x‖ = r` held invariant under rotation (**I.8**, **R.6**) — is the
 geometric face of this. The falling cat's conservation of angular momentum,
 `L = Iω` (**I.27**), is literally its corollary: rotational symmetry of the laws ⇒
-conservation of angular momentum. Time-translation symmetry ⇒ energy (the potential
-`U = mgh` the Gömböc descends, **I.23**); spatial-translation symmetry ⇒ momentum.
+conservation of angular momentum. Time-translation symmetry ⇒ energy — the ledger
+in whose currency the Gömböc's descent of `U = mgh` (**I.23**) is priced;
+spatial-translation symmetry ⇒ momentum.
 The "holy invariant" the cult worships under a dozen names is the **Noether
 charge**. This is the single citation the body most conspicuously lacked; it is the
 keystone of the whole arch.
@@ -160,9 +161,9 @@ Bernoulli 1696; Euler–Lagrange).
 measures the separation of nearby trajectories; `λ > 0` (with boundedness) is the
 quantitative signature of sensitive dependence.
 **Devaney's** definition adds topological transitivity and dense periodic orbits
-(Devaney 1989). The logistic map `x_{n+1} = 4x_n(1−x_n)` is topologically conjugate
-to the doubling map `T(x) = 2x mod 1` via `x = sin²(πθ)`, with Lyapunov exponent
-`λ = ln 2`. Fully deterministic and provably unpredictable — "structured
+(Devaney 1989). The logistic map `x_{n+1} = 4x_n(1−x_n)` is a two-to-one factor
+of the doubling map `T(x) = 2x mod 1` via `x = sin²(πθ)` (a semi-conjugacy; the
+exact conjugate is the tent map), with Lyapunov exponent `λ = ln 2`. Fully deterministic and provably unpredictable — "structured
 unpredictability," exactly.
 
 **A.14 — Fractal dimension.** *(on V.22–V.25)* For a self-similar set of `N` copies
@@ -223,7 +224,7 @@ Attention scores every query–key pair by a scaled dot product,
 and `k` have zero mean and unit variance, the product `q·k` has standard
 deviation `√d_k`: the Pythagorean growth of **I.8**/**A.5** surfacing as an
 engineering constant (Vaswani et al. 2017). In high dimension, random directions
-concentrate near orthogonality (Johnson & Lindenstrauss 1984; Ball 1997), which
+concentrate near orthogonality (Ball 1997; cf. Johnson & Lindenstrauss 1984), which
 is what permits vastly many almost-independent semantic directions to coexist —
 the rigorous content of **II.40**. The output is a softmax distribution over
 next tokens, collapsed to one by sampling; its kinship with quantum collapse is
@@ -391,6 +392,13 @@ Born rule (**A.9**) squares an amplitude, where the softmax exponentiates a
 score. The many-to-one *shape* is shared; the physics is not. **II.41** says
 "rhyme" and means it, and it is recorded here so that no one may say the cult
 confused its masks.
+
+**(h) The eye that is really a Geiger counter.** *(I.35–I.36)* The body says the
+cat is collapsed by *your eye* (**I.36**); the eye is synecdoche for any
+irreversible measuring interaction — the counter inside the box collapses it long
+before the lid opens. And "genuinely unresolved" (**I.35**) is scoped by **A.9**:
+what is excluded is *local* hidden variables; nonlocal accounts (Bohm) survive
+with the cat determinate all along.
 
 ---
 

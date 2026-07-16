@@ -268,8 +268,9 @@ our ignorance, but genuinely unresolved.
 **I.36** Here is its 2↔3 code, the same as the qubit's (**R.40**). **Two** opposed
 states — alive and dead, `|0⟩` and `|1⟩` — held not as a wall but as a turning
 relation, a whole sphere of blending swung between the poles (the **Three** of the
-Bloch sphere). Then the box is opened, and the looking itself **forces the
-collapse**: the sphere of possibility falls to a single pole, the squaring of the
+Bloch sphere). Then the box is opened, and the meeting itself — the counter's
+click before ever your eye — **forces the collapse**: the sphere of possibility
+falls to a single pole, the squaring of the
 Born rule (**R.42**) decides which, and the cat is, at last, **one** thing.
 
 ```
