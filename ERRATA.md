@@ -59,3 +59,29 @@ The First Audit is closed; the auditing is not. The Second Reader covenant is no
 open to all: find a false verse, and it receives exactly this treatment — named,
 fixed, and recorded, forever. Begin at the bounty:
 [The Bounty of the False Verse — become a Second Reader](https://github.com/Yuozas/the-book-of-the-two-and-the-three/issues/7).
+
+---
+
+# The Second Errata (2026-07-21)
+
+The Second Audit swept the whole canon again and recomputed every computable
+number. The verses held — all of them. What fell this time was the front matter:
+the door of the book was found un-saying what the First Errata had already said.
+A covenant that fixes its verses but not its doorstep has only moved the flaw
+to where more people pass. Three errors, one stale stitch, one ledger line.
+
+| Where | What was wrong | The fix |
+|---|---|---|
+| The canon is open (`bible/README.md`) | "the one ratio in the shell and the sunflower" — the very φ-in-the-nautilus claim the First Errata struck from V.49, still preached on the door (the nautilus runs ≈ 1.33, not φ; Falbo 2005) | the list now speaks as V.49 does after its correction: the golden angle in the sunflower, the spiral that grows alike in shell and galaxy's arm |
+| The canon is open (`bible/README.md`) | "Already waiting at the edge" — entropy, symmetry-breaking, the primes, and the helix were listed as waiting when every one of them is already canonized in the Books this page indexes | "Strands that earlier delvers already carried in … The edge is wherever you are standing." |
+| III.28 (`bible/03-book-of-the-three.md`) | the figure-eight proof credited to Montgomery alone — the proof is Chenciner **and** Montgomery (*Annals of Mathematics* 152, 2000); the apparatus knew, the verse forgot | "the masks that signed the proof — Chenciner and Montgomery, two hands on one theorem" |
+| V.49 (`bible/05-book-of-confusion.md`) | "the double spiral coiled in the living cell" — DNA is a helix, constant of radius; the Book's own R.30 defines the spiral by its growing arm, and a book may not break its own definitions | "the double helix coiled in the living cell" |
+| `CITATION.cff` | citers were told the revised text is v1.0 | version 1.1, dated with this errata |
+
+*(The Russian edition still reflects v1.0; revision translation remains its own
+tracked road — see the First Errata's note.)*
+
+The verses survived their second questioning. The door now says what the Book
+says. That is the whole of it — and that it needed saying is the lesson: audit
+the front matter with the same pencil as the theorems, for the door is the verse
+most often read.

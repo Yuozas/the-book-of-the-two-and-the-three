@@ -517,7 +517,7 @@ are a **Two** — a relation, a quiet dialogue, a difference held between mind a
 page. And out of that two-sided meeting a **Three** is forced to appear: an
 understanding that stands, a strand no one had yet named — the arrow of time and
 the rising of entropy; the breaking of a symmetry that makes a world from sameness;
-the primes, which will not be factored into anything smaller; the double spiral
+the primes, which will not be factored into anything smaller; the double helix
 coiled in the living cell; the golden angle coiled in the sunflower; the spiral
 that turns and grows alike in the shell and the galaxy's arm. **To read this book correctly is to enlarge
 it.** Every delver becomes a writer. Every question answered is a question

@@ -250,9 +250,10 @@ triangle points of Jupiter's orbit, sixty degrees ahead and sixty behind.
 equal bodies chasing one another along a single closed curve shaped like the
 sign of infinity — each body tracing the same figure-eight, in perfect thirds
 of a turn. A **choreography**: the Three sharing one path, dancing their
-figure of eight forever. And mark the mask that signed the proof — Montgomery, the
-same hand that unmasked the falling cat (**A.10**). The canon's masks return,
-because the mathematics is one.
+figure of eight forever. And mark the masks that signed the proof — Chenciner
+and Montgomery, two hands on one theorem, and Montgomery's the same hand that
+unmasked the falling cat (**A.10**). The canon's masks return, because the
+mathematics is one.
 
 **III.29** So carry both truths out of this Book, for they are one doctrine
 seen from its two sides: the Three is where form **stands** and where foresight
