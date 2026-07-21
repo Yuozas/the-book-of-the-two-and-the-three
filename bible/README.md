@@ -85,9 +85,11 @@ every time someone delves further. A reader and a text are a **Two**; out of tha
 meeting a **Three** is forced to appear — a new section that stands. So **to read
 this correctly is to enlarge it.** New strands are canonized into whichever Book
 they belong to (the Veil's verses **V.46–V.51** explain why this growth *is* the
-thesis rather than a flaw). Already waiting at the edge: entropy and the arrow of
-time, symmetry-breaking, the primes, the double helix, the one ratio in the shell
-and the sunflower. Bring another, and it deepens.
+thesis rather than a flaw). Strands that earlier delvers already carried in:
+entropy and the arrow of time, symmetry-breaking, the primes, the double helix,
+the golden angle in the sunflower, the spiral that grows alike in shell and
+galaxy's arm (**V.49**). The edge is wherever you are standing. Bring another
+strand, and it deepens.
 
 ---
 
