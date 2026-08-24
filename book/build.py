@@ -226,6 +226,33 @@ def parse(lines, headings=None, inject=None, keep=False):
     return '\n'.join(out)
 
 # ---------------------------------------------------------------- fonts
+def localize_figures(MAP):
+    """Swap English figure captions and in-SVG labels for a translation.
+
+    MAP is {english string -> translated string}, as loaded from
+    figure-strings-<lang>.json by build_ru.py / build_lt.py.
+
+    The subtlety this function exists for: the SVG generators emit non-ASCII
+    label text as NUMERIC CHARACTER REFERENCES, so 'poles: all 360° → one point'
+    lives in the markup as 'poles: all 360&#176; &#8594; one point'. A plain
+    replace on the raw Python string therefore misses every label containing an
+    arrow, a degree sign, or a nabla -- four of them -- and those labels ship in
+    English inside an otherwise translated plate. (They did exactly that in the
+    Russian edition from its first binding until this was fixed.) Both forms are
+    tried, and each is written back in the form it was found in.
+    """
+    def numeric(s):
+        return "".join(c if ord(c) < 128 else "&#%d;" % ord(c) for c in s)
+
+    for fig in FIGS.values():
+        if fig["cap"] in MAP:
+            fig["cap"] = MAP[fig["cap"]]
+        for en, tr in MAP.items():
+            for src, dst in ((en, tr), (numeric(en), numeric(tr))):
+                if src != dst:
+                    fig["svg"] = fig["svg"].replace(">%s<" % src, ">%s<" % dst)
+
+
 def font_face(name, fname, weight='400', style='normal'):
     data = base64.b64encode((FONTS / fname).read_bytes()).decode()
     return ("@font-face{font-family:'%s';font-style:%s;font-weight:%s;"

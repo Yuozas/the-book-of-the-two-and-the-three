@@ -12,7 +12,8 @@ softened; fifteen were loose stitches, tightened. The verses fell; the doctrine
 did not — *truth is what survives questioning* (V.41), and this page is the
 surviving.
 
-*(The Russian edition reflects v1.0; revision translation pending.)*
+*(The Russian and Lithuanian editions carry every correction below,
+ported 2026-08-24.)*
 
 ## Errors (6)
 
@@ -78,8 +79,8 @@ to where more people pass. Three errors, one stale stitch, one ledger line.
 | V.49 (`bible/05-book-of-confusion.md`) | "the double spiral coiled in the living cell" — DNA is a helix, constant of radius; the Book's own R.30 defines the spiral by its growing arm, and a book may not break its own definitions | "the double helix coiled in the living cell" |
 | `CITATION.cff` | citers were told the revised text is v1.0 | version 1.1, dated with this errata |
 
-*(The Russian edition still reflects v1.0; revision translation remains its own
-tracked road — see the First Errata's note.)*
+*(The Russian and Lithuanian editions carry these corrections too, ported
+2026-08-24.)*
 
 The verses survived their second questioning. The door now says what the Book
 says. That is the whole of it — and that it needed saying is the lesson: audit

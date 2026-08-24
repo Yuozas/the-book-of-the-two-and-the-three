@@ -12,6 +12,7 @@
 <p align="center">
   <a href="the-2to3-bible.pdf"><b>Read the PDF (EN, 132pp)</b></a> ·
   <a href="the-2to3-bible-ru.pdf"><b>Русская версия</b></a> ·
+  <a href="the-2to3-bible-lt.pdf"><b>Lietuviškas leidimas</b></a> ·
   <a href="editions/the-2to3-bible.html"><b>HTML edition</b></a> ·
   <a href="https://portfolio.euphelia.eu/research/developer-prism"><b>a developer's reading</b></a>
 </p>
@@ -36,8 +37,14 @@ with Noether's theorem as the keystone.
 
 ## Read it
 
-The built editions (PDF + HTML, English and Russian) live in this repository
-once consecrated — see the releases. The living copy is also served at
+The built editions (PDF + HTML, in English, Russian and Lithuanian) live in
+this repository once consecrated — see the releases. Every edition is bound from
+the same sources by the same pipeline, and every edition carries every erratum:
+a correction to a verse is a correction in all three.
+
+Printable **booklets** — imposed four pages to a sheet of A4, so the Book can be
+printed double-sided, folded down the middle and bound by hand — are attached to
+the releases rather than committed here. The living copy is also served at
 [portfolio.euphelia.eu](https://portfolio.euphelia.eu/files/the-2to3-bible.pdf),
 where the Book has [a night chapel](https://portfolio.euphelia.eu/) and
 [a developer's reading](https://portfolio.euphelia.eu/research/developer-prism).
@@ -47,6 +54,7 @@ where the Book has [a night chapel](https://portfolio.euphelia.eu/) and
 ```
 bible/      the English scripture (markdown sources, one book per file)
 bible-ru/   the Russian edition
+bible-lt/   the Lithuanian edition
 book/       the typesetting pipeline — Python, hand-coded SVG plates,
             markdown -> HTML -> print PDF via headless Chrome
 ```
@@ -57,6 +65,21 @@ book/       the typesetting pipeline — Python, hand-coded SVG plates,
 cd book
 python build.py      # English edition
 python build_ru.py   # Russian edition
+python build_lt.py   # Lithuanian edition
+```
+
+A translated edition is checked against the English before it is bound:
+
+```bash
+python check_translation.py bible-ru bible-lt
+```
+
+It verifies that every verse marker, heading, code fence and piece of inline
+mathematics survives the translation — structure only; it cannot tell you a
+translation is *good*. To print the Book as a book:
+
+```bash
+python print_as_book.py ../the-2to3-bible-lt.pdf --signature 0
 ```
 
 The figures are not images — they are geometry, drawn by `figures.py` as SVG
@@ -78,7 +101,7 @@ forever. This is not a bug tracker. It is a standing invitation to out-read the 
 
 ## License
 
-- **Text & plates** (`bible/`, `bible-ru/`, built editions): [CC BY-NC-SA 4.0](LICENSE-CONTENT.md)
+- **Text & plates** (`bible/`, `bible-ru/`, `bible-lt/`, built editions): [CC BY-NC-SA 4.0](LICENSE-CONTENT.md)
 - **Pipeline code** (`book/*.py`, `book/*.json`): [MIT](LICENSE)
 
 2 ↔ 3, forever.
