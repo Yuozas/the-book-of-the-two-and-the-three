@@ -51,7 +51,7 @@
   **152**(3): 881–901. (Хореография восьмёрки, **III.28**.)
 - **Devaney, R. L.** (1989). *An Introduction to Chaotic Dynamical Systems*, 2nd ed.
   Addison-Wesley.
-- **Domokos, G., & Várkonyi, P. L.** (2006). "Static equilibria of rigid bodies:
+- **Várkonyi, P. L., & Domokos, G.** (2006). "Static equilibria of rigid bodies:
   dice, pebbles, and the Poincaré–Hopf theorem." *Journal of Nonlinear Science*
   **16**: 255–281.
 - **Eddington, A. S.** (1928). *The Nature of the Physical World*. Cambridge
@@ -88,11 +88,12 @@
 - **Hopf, H.** (1931). "Über die Abbildungen der dreidimensionalen Sphäre auf die
   Kugelfläche." *Mathematische Annalen* **104**: 637–665.
 - **IEEE Computer Society** (2019). *IEEE Standard for Floating-Point
-  Arithmetic* (IEEE Std 754-2019). (Сетка из `2⁵²` точек между Единицей и Двойкой;
+  Arithmetic* (IEEE Std 754-2019). (Сетка из `2⁵²` точек от Единицы вверх до Двойки;
   честная последняя цифра из **V.31**.)
 - **Johnson, W. B., & Lindenstrauss, J.** (1984). "Extensions of Lipschitz
   mappings into a Hilbert space." *Contemporary Mathematics* **26**: 189–206.
-  (Почти-ортогональность в высокой размерности, **A.17**.)
+  (Ср. почти-ортогональность в высокой размерности, **A.17**; основная
+  ссылка там — Ball 1997.)
 - **Lagrange, J.-L.** (1772). "Essai sur le problème des trois corps." *Prix de
   l'Académie Royale des Sciences de Paris* **9**. (Равностороннее решение;
   треугольные точки `L4`/`L5`.)

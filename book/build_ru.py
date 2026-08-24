@@ -24,11 +24,9 @@ build.OUT_PDF = HERE / "the-2to3-bible-ru.pdf"
 
 # ------------------------------------------- figures: captions + labels
 MAP = json.loads((HERE / "figure-strings-ru.json").read_text(encoding="utf-8"))
-for fig in figures.FIGS.values():
-    if fig["cap"] in MAP:
-        fig["cap"] = MAP[fig["cap"]]
-    for en, ru in MAP.items():
-        fig["svg"] = fig["svg"].replace(">%s<" % en, ">%s<" % ru)
+# Handles labels the SVG stores as numeric entities (&#8594; etc.); see
+# build.localize_figures.
+build.localize_figures(MAP)
 
 # ---------------------------------- INJECT: re-key to Russian headings
 def h3s(path):
